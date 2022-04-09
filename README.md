@@ -16,7 +16,6 @@
 
 É uma lista onde o usuário cadastra e remove itens que seriam indispensáveis para levar em um viagem. Os itens são armazenados no Local Storage do navegador para quando recarregar a página esses dados não se percam.
 
-Projeto em desenvolvimento, algumas funcionalidades e telas estão em desenvolvimento.
 
 ## 🛠 Tecnologias
 
