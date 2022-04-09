@@ -5,6 +5,7 @@ html {
 }
 
 .conteudo {
+    flex-wrap: wrap;
     padding: 10vh 3em 0;
     display: flex;
     align-items: flex-start;
@@ -139,3 +140,30 @@ html {
     color: white;
 }
 
+@media screen and (max-width: 900px) {
+
+    html{
+        height: auto;
+    }
+
+    .conteudo {
+        padding: 10px;
+        margin-top: 30px;
+    }
+
+    .principal {
+        flex-wrap: wrap;
+        min-width: 300px;
+    }
+
+    .mochila {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .lista {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+  
