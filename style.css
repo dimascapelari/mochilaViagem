@@ -1,5 +1,5 @@
 html {
-    background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
+    background: radial-gradient(farthest-corner at right top,#09e9e5, #376aa5);
     height: 100%;
     font-family: 'Roboto', cursive;
 }
@@ -18,7 +18,7 @@ html {
     padding: 4em 2em 2em;
     box-sizing: border-box;
     display: flex;
-    background: #C5965F;
+    background: #39356b;
     border-radius: 10px;
     gap: 2em;
 }
@@ -69,7 +69,7 @@ html {
 .mochila:after {
     margin-left: 67px;
     margin-top: -30px;
-    background: #cca16a;
+    background: #39356b;
     width:26px;
     height:26px;
     border: 3px solid #491033;
@@ -92,12 +92,19 @@ html {
 
 .adicionar label {
     display: block;
+    color: white;
 }
 
 .cadastrar {
     background-color: #40112D;
     color: #FFFFFF;
+    font-size: 18px;
     cursor: pointer;
+}
+
+.paragrafo {
+    color: white;
+    text-align: center;
 }
 
 .lista {
@@ -127,7 +134,8 @@ html {
     justify-content: center;
     width: 40px;
     height: 40px;
-    Background: #C5965F;
+    Background: #39356b;
     font-weight: 400;
+    color: white;
 }
 
