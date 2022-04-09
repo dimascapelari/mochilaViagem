@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/jeandsontb/Desafio-Crud-Node-React/main/screens/hublocal02.png" width="400px">
-  <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/jeandsontb/Desafio-Crud-Node-React/main/screens/hublocal03.png" width="400px">
+  <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
 
