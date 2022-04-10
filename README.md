@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">
+<h3 align="center" style="display: block; margin-rigth: auto; margin-left: auto;">
    Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h3>
 
