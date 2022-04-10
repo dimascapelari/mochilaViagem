@@ -10,9 +10,10 @@
   <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=April&color=yellowgreen&style=for-the-badge&logo=Slack">
 </p>
 
-<h3 align="left"><br>
-   Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
-</h3>
+## Link do Vídeo:
+
+ https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
+
 
 ## 💻 Sobre o Projeto
 
