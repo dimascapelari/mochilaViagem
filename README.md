@@ -6,20 +6,13 @@
   <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
-
-<h3 align="center" style="display: block; margin-rigth: auto; margin-left: 100px;">
-   Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
-</h3>
-
-
-margin-left:auto;
-	margin-right:auto;
-	display: block;
-	clear: both;
-
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=April&color=yellowgreen&style=for-the-badge&logo=Slack">
 </p>
+
+<h3 align="left">
+   Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
+</h3>
 
 ## 💻 Sobre o Projeto
 
