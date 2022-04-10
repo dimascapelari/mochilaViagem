@@ -6,20 +6,9 @@
   <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
-<h3 align="center">
-  Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
+<h3 align="center" style="text-align: center;">
+   Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h3>
-
-
-<video><iframe width="100%" height="315" src="https://www.youtube.com/embed/vAlZJVLc7OE"
-                    title="YouTube video player" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe></video>
-        
-
-
-
-
 
 
 <p align="center">
