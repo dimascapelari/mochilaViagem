@@ -6,7 +6,7 @@
   <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
-<h2 align="center">
+<h2 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
     Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h2>
 
