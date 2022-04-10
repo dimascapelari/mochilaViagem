@@ -6,12 +6,17 @@
   <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
-<div style="text-align:center;">
+<div style="text-align: center; margin-left:auto; margin-right:auto; display: block;"> 
 
 <h3 align="center" style="text-align: center;">
    Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h3>
 </div>
+
+margin-left:auto;
+	margin-right:auto;
+	display: block;
+	clear: both;
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=April&color=yellowgreen&style=for-the-badge&logo=Slack">
