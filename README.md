@@ -15,7 +15,7 @@
   <img width="460" height="300" src="https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674">
 </p>
 
-<video>https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674</video>
+<video align="center">https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674</video>
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=April&color=yellowgreen&style=for-the-badge&logo=Slack">
