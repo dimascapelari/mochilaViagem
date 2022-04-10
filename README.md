@@ -6,12 +6,11 @@
   <img alt="PROJECT" title="#PROJECT" src="https://raw.githubusercontent.com/dimascapelari/mochilaViagem/main/img/mochila2.png" width="400px">
 </p>
 
-<div style="text-align: center; margin-left:auto; margin-right:auto; display: block;"> 
 
-<h3 align="center" style="text-align: center;">
+<h3 align="center">
    Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h3>
-</div>
+
 
 margin-left:auto;
 	margin-right:auto;
