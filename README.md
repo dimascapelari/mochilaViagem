@@ -7,11 +7,6 @@
 </p>
 
 
-<h2 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-    Link do Vídeo: <a href="https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674"</a>
-</h2>
-
-
 
 <video align="center" style="display: block; margin: 0 auto; width: 750px;">https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674</video>
 
