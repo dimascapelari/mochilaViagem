@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="center" style="display: flex; align-items: justify-content: center;">
+<h2 align="center" style="display: flex; justify-content: center;">
     Link do Vídeo: https://www.loom.com/share/88d3af6505c941848355a66cf9c3b674
 </h2>
 
